@@ -38,6 +38,7 @@ opentimestamps
 @tailwindcss/forms
 tailwind-merge
 tailwind-scrollbar
+tailwindcss-animate
 framer-motion
 @nextui-org/react
 next-themes
@@ -50,6 +51,7 @@ next-themes
 @types/react-dom
 @typescript-eslint/eslint-plugin
 @typescript-eslint/parser
+eslint-plugin-react-hooks
 @webbtc/webln-types
 autoprefixer
 eslint
