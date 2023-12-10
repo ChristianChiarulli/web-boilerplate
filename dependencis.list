@@ -13,6 +13,7 @@ nostr-tools
 dexie
 dexie-react-hooks
 @getalby/bitcoin-connect-react
+ln-service
 qr-code-styling
 next-pwa
 use-long-press
